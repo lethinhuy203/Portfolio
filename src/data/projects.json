@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Leaf Doctor",
+    "imageSrc": "projects/leafdoctor.png",
+    "description": "Web app assists farmers in detecting diseases on plant leaves, helping them manage crops effectively.",
+    "skills": ["Flask", "Cloudinary", "SQLite3"],
+    "demo": "https://cs338o21.up.railway.app",
+    "source": "https://github.com/lethinhuy203/CS338.O21"
+  },
+  {
+    "title": "Online Aquarium",
+    "imageSrc": "projects/Aquarium.png",
+    "description": "Project simulates marine life in a vivid 3D environment using the Three.js library.",
+    "skills": ["Three.js", "dat.GUI", "GitHub Actions"],
+    "demo": "https://uyenbhku.github.io/CS105.O21/demo/",
+    "source": "https://github.com/uyenbhku/CS105.O21"
+  },
+  {
+    "title": "YUMS -  HoChiMinh Communist Youth Union of the Faculty of Computer Science Website",
+    "imageSrc": "projects/yums.png",
+    "description": "Helps students update information and activities.",
+    "skills": ["Figma", "React"],
+    "demo": "https://www.figma.com/design/6UvZRsdVyTUuuEDN3uvzIh/YUMS-website?m=auto&t=9qQwXhftLvijLwmO-1",
+    "source": "https://www.figma.com/design/6UvZRsdVyTUuuEDN3uvzIh/YUMS-website?m=auto&t=9qQwXhftLvijLwmO-1"
+  },
+  {
+    "title": "Forever20",
+    "imageSrc": "projects/forever20.png",
+    "description": "A visual search engine for a web app to enhance the user experience on fashion e-commerce platforms.",
+    "skills": ["Django", "SQLite", "FAISS", "PyTorch"],
+    "demo": "https://github.com/mainbt/webthoitrang",
+    "source": "https://github.com/mainbt/webthoitrang"
+  }
+]

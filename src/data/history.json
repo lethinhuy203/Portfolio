@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Programming languages:",
+    "experiences": ["Python (Django, Flask), C++, SQL (MySQL)", "HTML, CSS, JavaScript (React)"],
+    "imageSrc": "about/cursorIcon.png"
+  },
+  {
+    "role": "Libraries and Tools:",
+    "experiences": ["ThreeJS, Sklearn, Pandas, Numpy, OpenCV", "Git, Figma"],
+    "imageSrc": "about/cursorIcon.png"
+  },
+  {
+    "role": "ML Architectures:",
+    "experiences": [
+      "CNN, YOLO, CLIP"
+    ],
+    "imageSrc": "about/cursorIcon.png"
+  }
+]
