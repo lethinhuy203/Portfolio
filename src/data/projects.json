@@ -1,5 +1,13 @@
 [
   {
+    "title": "Apple Website",
+    "imageSrc": "projects/apple.png",
+    "description": "A 3D website introducing features, design and technology of the iPhone.",
+    "skills": ["React", "JavaScript", "Three", "Gsap", "Tailwindcss"],
+    "demo": "https://apple-website-five-iota.vercel.app/",
+    "source": "https://github.com/lethinhuy203/Apple-website"
+  },
+  {
     "title": "Leaf Doctor",
     "imageSrc": "projects/leafdoctor.png",
     "description": "Web app assists farmers in detecting diseases on plant leaves, helping them manage crops effectively.",

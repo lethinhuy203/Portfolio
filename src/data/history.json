@@ -1,7 +1,7 @@
 [
   {
     "role": "Programming languages:",
-    "experiences": ["Python (Django, Flask), C++, SQL (MySQL)", "HTML, CSS, JavaScript (React)"],
+    "experiences": ["HTML, CSS, JavaScript, React", "Python (Django, Flask), C++, SQL (MySQL)"],
     "imageSrc": "about/cursorIcon.png"
   },
   {
