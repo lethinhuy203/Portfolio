@@ -13,15 +13,15 @@
 }
 
 .text h2 {
-  font-size: 80px;
+  font-size: 6vw;
   font-weight: 700;
-  letter-spacing: 4px;
+  letter-spacing: 0.25vw;
 }
 
 .text p {
-  font-size: 40px;
+  font-size: 3vw;
   font-weight: 400;
-  letter-spacing: 2px;
+  letter-spacing: 0.125vw;
 }
 
 .links {
@@ -41,9 +41,9 @@
 .link a {
   color: var(--color-text);
   text-decoration: none;
-  font-size: 30px;
+  font-size: 2.5vw;
   font-weight: 400;
-  letter-spacing: 1.5px;
+  letter-spacing: 0.1vw;
 }
 
 @media screen and (max-width: 830px) {
@@ -51,14 +51,25 @@
     flex-direction: column;
     gap: 23px;
   }
+  .links {
+    align-items: center;
+  }
 
+  .text h2 {
+    font-size: 8vw; /* Tăng độ linh hoạt trên màn hình nhỏ hơn */
+  }
+
+  .text p {
+    font-size: 4vw;
+  }
+
+  .link a {
+    font-size: 3.5vw;
+  }
   .text {
     display: flex;
     flex-direction: column;
     align-items: center;
   }
-
-  .links {
-    align-items: center;
-  }
+  
 }
